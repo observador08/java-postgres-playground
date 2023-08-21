@@ -1,13 +1,15 @@
 package com.example;
 
-import static org.junit.jupiter.api.Assertions.assertTrue;
-import org.junit.jupiter.api.Test;
-
 public class AppTest {
+public static void main(String [] args){
+    System.out.println();
+    System.out.println();
+    System.out.println(x:"Minha aplicação Java\n");
 
-    @Test
-    public void shouldAnswerWithTrue() {
-        assertTrue(true);
-    }
+    //Tipo nomeDaVariavel;
+    int idade;
+    System.out.println(x:
+       
+        }
 
 }
